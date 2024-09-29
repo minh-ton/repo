@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.0.1</version>
+		<change>Added support for large screen iPhones [1.1.2021]</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial Release [1.1.2021]</change>
+	</changes>
+</changelog>

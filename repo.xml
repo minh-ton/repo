@@ -1,0 +1,16 @@
+<repo>
+	<footerlinks>
+		<link>
+	    <url>https://reddit.com/u/Minh-Ton</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<url>https://github.com/Minh-Ton</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<url>mailto:minhton@qhhoj.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</footerlinks>
+</repo>

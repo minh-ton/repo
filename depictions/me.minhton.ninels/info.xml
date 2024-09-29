@@ -1,0 +1,40 @@
+<package>
+   <id>me.minhton.ninels</id>
+    <name>NineLS</name>
+    <version>1.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>14.3</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <dependencies>preferenceloader</dependencies>
+    <dependencies>ws.hbang.common</dependencies>
+    <dependencies>org.thebigboss.libcolorpicker</dependencies>
+    <descriptionlist>
+        <description>Brings back the iOS 9 Lock Screen</description>
+        <longdescription><![CDATA[
+		<br>NineLS themes your lock screen with an iOS 9 look, including Slide To Unlock, iOS 9 Now Playing Interface, Notifications, and Banners.<br/>
+		<br>This tweak is open-source on GitHub. Feel free to contribute to make it better!<br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+	<screenshot>
+            <image>ss1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>ss2.png</image>
+        </screenshot>
+	<screenshot>
+            <image>ss3.png</image>
+        </screenshot>
+	<screenshot>
+            <image>ss4.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+	<change>- Added support for large screen iPhones.</change>
+    </changelog>
+    <links></links>
+</package>

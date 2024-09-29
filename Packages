@@ -1,0 +1,146 @@
+Package: me.minhton.ninels
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MinhTon <ford.tonthat@gmail.com>
+Installed-Size: 5708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, me.minhton.nineunlock, me.minhton.ninemusic
+Filename: ./debs/me.minhton.ninels_1.0.0_iphoneos-arm.deb
+Size: 5149488
+MD5sum: 9751b01edfe78c972bd1e9b615cc97bc
+SHA1: 16a343dacbd09cf23cbf539707722965baf4ceb7
+SHA256: 584b7ad7008fafa44aac421434256ecb7efcb9c738c75abc3f7c76a7110a3bb0
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 Lock Screen!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninels
+Icon: https://minh-ton.github.io/repo/icons/NineLS/Icon.png
+Name: NineLS
+
+Package: me.minhton.ninels
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MinhTon <ford.tonthat@gmail.com>
+Installed-Size: 5708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, me.minhton.nineunlock, me.minhton.ninemusic
+Filename: ./debs/me.minhton.ninels_1.0.1_iphoneos-arm.deb
+Size: 5149496
+MD5sum: 6d35487e9d546157bcce1b8e9ebb7b08
+SHA1: c8c1929f2bd79dc6aef7ce3cf7d2b3b52f22ad08
+SHA256: ea51e8fbb794fcbf1ffd8b8a0faa231f494e528561f82c7484a6d6ed619d7dd3
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 Lock Screen!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninels
+Icon: https://minh-ton.github.io/repo/icons/NineLS/Icon.png
+Name: NineLS
+
+Package: me.minhton.ninemusic
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, com.golddavid.colorflow5
+Filename: ./debs/me.minhton.ninemusic_1.0.0_iphoneos-arm.deb
+Size: 381590
+MD5sum: 6d3ee9237d397e9522971aecfc89898a
+SHA1: 67d8ee59e1081b4127c6a14f786076b337ee3bc0
+SHA256: b2953976cbc5a64fcb988139bc06951c5014b86a830d2c7d3b4ba95f7e72f19f
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: iOS 9 Lockscreen Music Player!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninemusic
+Icon: https://minh-ton.github.io/repo/icons/NineMusic/Icon.png
+Name: NineMusic
+
+Package: me.minhton.nineunlock
+Version: 0.0.1-b1
+Architecture: iphoneos-arm
+Maintainer: MinhTon
+Installed-Size: 252
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
+Filename: ./debs/me.minhton.nineunlock_0.0.1-b1_iphoneos-arm.deb
+Size: 22878
+MD5sum: 9d6df0b516ff0b8131a2499047b093d6
+SHA1: 4115d537baf4ff04835cc45c7ed859d14e36acea
+SHA256: 55ff7bdcc9c278e20b6777189a9510e2bbcdd43df3c5fc46ac6b87fa0129557a
+Section: Tweaks
+Description: Slide To Unlock for iOS 13!
+Author: MinhTon
+Name: NineUnlock
+
+Package: me.minhton.nineunlock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MinhTon
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
+Filename: ./debs/me.minhton.nineunlock_1.0.0_iphoneos-arm.deb
+Size: 24810
+MD5sum: a6d75a32522704abb7a0041e2b741818
+SHA1: 1fbe35fc2fa9d5425d7a3e59dca92baa79728ac0
+SHA256: acbded79e452344e90d8d1ef43a2e10c8f147ba6af88f1201c57aff93a3c8153
+Section: Tweaks
+Description: iOS 9 style "Slide To Unlock" for iOS 13!
+Author: MinhTon
+Name: NineUnlock
+
+Package: me.minhton.nineunlock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MinhTon
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
+Filename: ./debs/me.minhton.nineunlock_1.0.1_iphoneos-arm.deb
+Size: 22804
+MD5sum: 562d7fc33bebc075659f98d1ba95ccf9
+SHA1: 827f3b4bb0fa13fae0e675935f976f67f610b8b2
+SHA256: 78de973f8176852a58db4b6d11646a235807bfbcafaa8e0e9e0604cee68f3c47
+Section: Tweaks
+Description: iOS 9 style "Slide To Unlock" for iOS 13!
+Author: MinhTon
+Name: NineUnlock
+
+Package: me.minhton.nineunlock
+Version: 1.0.2
+Architecture: iphoneos-arm
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker, ws.hbang.common
+Filename: ./debs/me.minhton.nineunlock_1.0.2_iphoneos-arm.deb
+Size: 500360
+MD5sum: 7f1c2e83031de8933fd9938b735bb967
+SHA1: 36c3a5d193f60f6783d6f3fab5f51504660cee64
+SHA256: 1a379a2f3e7a10bd38b81bb23def1c3ebc9965a12d6dde46b811071447b62dcd
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
+Name: NineUnlock
+
+Package: me.minhton.nineunlock
+Version: 1.0.3
+Architecture: iphoneos-arm
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker
+Filename: ./debs/me.minhton.nineunlock_1.0.3_iphoneos-arm.deb
+Size: 499892
+MD5sum: 10ca5e09b36cd0c82f7d7057cc1d6432
+SHA1: 442f548844af3fe3c2fa80ec2c16c4b6bfd34a45
+SHA256: ea50d32903d17693904ab02ac5d6ee3064ce424005a1d0fea46380955b4ff460
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
+Name: NineUnlock
+

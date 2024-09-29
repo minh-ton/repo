@@ -1,0 +1,31 @@
+<package>
+   <id>me.minhton.ninemusic</id>
+    <name>NineMusic</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>14.1</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <dependencies>preferenceloader</dependencies>
+    <descriptionlist>
+        <description>iOS 9 Lockscreen Music Player!</description>
+        <longdescription><![CDATA[
+		<br>This tweak brings back the iOS 9 Lockscreen Music Player to newer iOS versions.<br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+	<screenshot>
+            <image>ss1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>ss2.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+	<change>- Initial Release.</change>
+    </changelog>
+    <links></links>
+</package>
